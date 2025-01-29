@@ -1,3 +1,4 @@
+![showcase](https://github.com/Qwez-source/Name-It/blob/main/showcase.gif?raw=true)
 # Name-It
 Простое переименование файлов на основе их содержимого с помощью ИИ. 
 
